@@ -87,7 +87,7 @@ const Login = () => {
             <p className='text-[13px] text-slate-800 mt-3'>
                 Don't have an account?{" "}
                 <Link className="font-medium text-primary underline" to="/signup">
-                    SignUp
+                    Sign Up
                 </Link>
             </p>
         </form>
